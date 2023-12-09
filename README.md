@@ -19,14 +19,45 @@
 
 </div>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
  </div>
 
+# 🛅 Projects
+
+### CareerLoom- Online Job Marketplace
+
+**Description:**
+Users can also check the job description, bid amount, and deadline. The job owner also sees a job bid request from the bid request route, and he or she can accept or reject that job. This web application uses a Firebase authentication system
+
+**Live link:** https://careerloom-89809.web.app/
+
+
+### Polling and Survey App
+
+
+**Description:**
+This is a full-stack online polling survey app. Users can participate in online polling for a survey. Pro users can complete their payments using an online payment system (Stripe) and also make comments. There are admin, surveyor, and user dashboards
+
+**Live link:** https://online-polliing-survey.web.app/
+
+
+### Electronics eshop
+
+**Description:**
+This is an electronics eStore where users can check out new products.Users can also create an account or register on this site. Users can check which products are available based on the product brand. For the backend, used a MongoDB database and fetch data from REST APIs. Users can also select the products they want to buy and add them to their cart.
+
+**Live link:** https://brand-eshop-7ab17.web.app/
+
 ---
+
+<div align="center>
+
 [![](https://visitcount.itsvg.in/api?id=zalish-shawon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+
