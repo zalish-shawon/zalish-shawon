@@ -1,4 +1,4 @@
-![Image](/public/banner.png)
+![Image](/public/banner2.png)
 
 # 💫 About Me:
 <br>Hello there! 👋 I'm Md Zalish Mahmud, a passionate MERN stack developer on a journey to improve my coding skills and contribute to the exciting world of web development. Welcome to my GitHub repository!<br><br>🌟 **What I Do:**<br>- As a Junior MERN (MongoDB, Express.js, React, Node.js) Stack Developer, I bring a passion for creating dynamic and responsive web applications. With a solid foundation in front-end and back-end technologies, I am eager to contribute my skills to innovative projects and further develop my expertise in the MERN stack.<br>- My goal is to create engaging and accessible websites that provide exceptional user experiences.<br><br>📚 **Learning and Growth:**<br>- I'm always learning and seeking new challenges to expand my knowledge.<br>- You'll find a mix of personal projects and contributions to open-source initiatives on my GitHub. Feel free to explore, provide feedback, or collaborate!
